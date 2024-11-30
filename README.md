@@ -1,4 +1,12 @@
-This End-to-End Excel project involved analyzing transactional sales data to uncover insights and trends. Key tasks included identifying the reasons behind a significant sales drop after March and profiling the customer base. The dataset comprised information on orders, customer demographics, sales channels, product categories, quantities, and shipping details. By leveraging Excel's data analysis tools, the project provided actionable insights to address sales performance issues and optimize customer engagement strategies.
+# End-to-End Excel Sales Demographic Data Analysis
+
+# 🚀 About the Project
+
+- This End-to-End Excel project involved analyzing transactional sales data to uncover insights and trends. 
+- Key tasks included identifying the reasons behind a significant sales drop after March and profiling the customer base. 
+- The dataset comprised information on orders, customer demographics, sales channels, product categories, quantities, and shipping details. 
+- By leveraging Excel's data analysis tools, the project provided actionable insights to address sales performance issues and optimize customer engagement strategies.
+
 In this project I have used Excel to do the following tasks
 1. Data Cleaning
 2. Data Preprocessing
